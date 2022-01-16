@@ -1,0 +1,2 @@
+class HiveItem < ApplicationRecord
+end
